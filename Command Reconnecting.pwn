@@ -9,6 +9,7 @@ CMD:reconnect(playerid)
     ReconnectPlayer(playerid);
     return 1;
 }
+
 stock ReconnectPlayer(idplayer)
 {
     GetPlayerIp(idplayer, IPstring, 18), SetPVarString(idplayer, "PlayerIP", IPstring);
