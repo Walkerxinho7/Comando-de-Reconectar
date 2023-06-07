@@ -1,0 +1,13 @@
+Olá novamente, bom gente esse é um comando que vai servir para o jogador
+reconectar no servidor, ele é muito útil, por exemplo caso um jogador tiver
+bugado ele poderá efetuar esse comando que ele irá reconectar no servidor
+sem precisar sair do jogo e etc, eu vir esse comando em poucos servidores,
+lembre-se que você precisa ter o (samp.ban), não se preocupe assim que
+você ligar seu servidor provavelmente o (samp.ban) será criado
+automaticamente, você também verá no topo do Reconnect.pwn o include
+"izcmd.inc" esse include é uma cópia do ZCMD porém melhor na hora da
+compilação, certeza que você ja terá o ZCMD, o izcmd não é obrigatório
+para esse comando de reconectar funcionar.
+
+Atenciosamente, Walkerxinho7
+Discord, Walkerxinho7#9124 caso precise de ajuda
